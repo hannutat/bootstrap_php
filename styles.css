@@ -1,0 +1,88 @@
+.del-button {
+    font-size: 0.8rem;
+    border: none;
+    background-color: white;
+    padding-left: 0 !important;
+}
+
+.nav-button {
+    font-size: 1rem;
+    border: none;
+    background-color: none;
+    padding-left: 0 !important;
+}
+
+.cart-cont {
+    width: 85%;
+}
+
+.cart-note {
+    font-size: 0.8rem;
+    color: red;
+}
+
+form {
+    margin: 0;
+    padding: 0;
+    display: inline;
+}
+
+.img-logo {
+    max-height: 60px;
+}
+
+.product-pic {
+    max-width: 150px;
+    height: auto;
+}
+
+footer {
+    height: 25px;
+}
+
+.card {
+    min-height: 305px;
+}
+
+.card-text {
+    min-height: 50px;
+}
+
+.prodmenu-cont {
+    width: 80%;
+    max-width: 515px;
+}
+
+.blog-pic {
+    width: 90%;
+    max-width: 250px;
+    height: auto;
+}
+
+.contact-box {
+    height: 400px;
+}
+
+.carousel-item {
+    height: 12rem;
+}
+    
+@media only screen and (min-width: 768px) {
+    .album {
+        width: 65%;
+    }
+    
+    .blog-cont {
+        width: 35%;
+    }
+    
+    .prodmenu-cont {
+        width: 20%;
+        min-height: 300px;
+    }
+    
+    .album-all-prod {
+        width: 80%;
+    }
+    
+}
